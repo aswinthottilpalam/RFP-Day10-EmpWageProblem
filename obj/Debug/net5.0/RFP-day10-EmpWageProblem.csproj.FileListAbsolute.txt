@@ -1,0 +1,16 @@
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.csproj.AssemblyReference.cache
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.AssemblyInfoInputs.cache
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.AssemblyInfo.cs
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.csproj.CoreCompileInputs.cache
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\bin\Debug\net5.0\RFP-day10-EmpWageProblem.exe
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\bin\Debug\net5.0\RFP-day10-EmpWageProblem.deps.json
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\bin\Debug\net5.0\RFP-day10-EmpWageProblem.runtimeconfig.json
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\bin\Debug\net5.0\RFP-day10-EmpWageProblem.runtimeconfig.dev.json
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\bin\Debug\net5.0\RFP-day10-EmpWageProblem.dll
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\bin\Debug\net5.0\RFP-day10-EmpWageProblem.pdb
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.dll
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\refint\RFP-day10-EmpWageProblem.dll
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.pdb
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\RFP-day10-EmpWageProblem.genruntimeconfig.cache
+E:\desktop\newpgm\NlogExamples\RFP-day10-EmpWageProblem\RFP-day10-EmpWageProblem\obj\Debug\net5.0\ref\RFP-day10-EmpWageProblem.dll

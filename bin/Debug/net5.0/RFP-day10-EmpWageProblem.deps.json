@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RFP-day10-EmpWageProblem/1.0.0": {
+        "runtime": {
+          "RFP-day10-EmpWageProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RFP-day10-EmpWageProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
